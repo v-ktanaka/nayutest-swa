@@ -44,3 +44,4 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.CASE2210060060001103SECRETKEY }}
           action: "close"
 
+
